@@ -12,8 +12,9 @@
 
 int main(int argc, char **argv)
 {
-	//you're a fuckin idiot do it right idiot.
+	
 	if(argc < 2){
+		//if you see this you're a fuckin idiot do it right idiot.
 		printf("Usage: $s freq1, freq2, freq3 | aplay -f s16_le -r 11520\r\n");
 		exit(0);
 	}
