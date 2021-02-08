@@ -6,7 +6,7 @@
 #include <ctype.h>
 #include <math.h>
 
-#include "PhaseCorrector.h"
+#include "../PhaseCorrector.h"
 
 using namespace std;
 
