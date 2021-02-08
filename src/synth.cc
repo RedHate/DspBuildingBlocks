@@ -19,7 +19,7 @@ int main(int argc, char **argv)
 		exit(0);
 	}
 	
-	//no sense in even getting here until we do some checks.
+	//no sense in even getting here until have done the argv sanity checks, why begin to populate memory before then?
 	int16_t sample;
 	float floatSample;
 	float iValue, qValue;
