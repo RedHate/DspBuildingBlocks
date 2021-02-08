@@ -6,7 +6,7 @@
 #include <ctype.h>
 #include <math.h>
 
-#include "PhaseAccumulator.h"
+#include "../include/PhaseAccumulator.h"
 
 using namespace std;
 
