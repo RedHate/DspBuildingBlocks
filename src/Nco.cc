@@ -6,7 +6,7 @@
 #include <ctype.h>
 #include <math.h>
 
-#include "Nco.h"
+#include "../include/Nco.h"
 
 using namespace std;
 
