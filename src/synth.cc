@@ -8,7 +8,7 @@
 #include <stdint.h>
 #include <stdlib.h>
 #include <stdarg.h>
-#include "src/Nco.h"
+#include "../include/Nco.h"
 
 int main(int argc, char **argv)
 {
