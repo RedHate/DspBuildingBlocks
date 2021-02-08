@@ -21,7 +21,7 @@
 #include <stdint.h>
 #include <stdlib.h>
 
-#include "Nco.h"
+#include "../include/Nco.h"
 
 int main(int argc,char **argv)
 {
